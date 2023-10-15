@@ -1,0 +1,12 @@
+{
+  "myBudget": [
+    {"title": "Dining", "budget": 35, "color": "#FF5733"},
+    {"title": "Housing", "budget": 340, "color": "#3498DB"},
+    {"title": "Groceries", "budget": 95, "color": "#27AE60"},
+    {"title": "Clothing", "budget": 115, "color": "#F1C40F"},
+    {"title": "Leisure", "budget": 105, "color": "#9B59B6"},
+    {"title": "Wellness", "budget": 75, "color": "#E74C3C"},
+    {"title": "Fuel", "budget": 28, "color": "#D35400"},
+    {"title": "Savings", "budget": 205, "color": "#34495E"}
+  ]
+}
